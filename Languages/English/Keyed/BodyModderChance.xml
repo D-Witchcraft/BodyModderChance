@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BMC_SettingsCategory>Body Modder Chance</BMC_SettingsCategory>
+	<BMC_BaseChance>Base chance</BMC_BaseChance>
+	<BMC_OnePercentDefault>1% (Default)</BMC_OnePercentDefault>
+	<BMC_BodyPuristLostTitle>Body Purist Lost</BMC_BodyPuristLostTitle>
+	<BMC_BodyPuristLostDescription>{PAWN_labelShort} has begun to reconsider their views on the human body.</BMC_BodyPuristLostDescription>
+	<BMC_BodyModderGainedTitle>Body Modder Gained</BMC_BodyModderGainedTitle>
+	<BMC_BodyModderGainedDescription>{PAWN_labelShort} has decided that there is no reason to accept the limitations of a natural body.</BMC_BodyModderGainedDescription>
+</LanguageData>

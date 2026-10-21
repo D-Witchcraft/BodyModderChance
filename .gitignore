@@ -1,0 +1,23 @@
+# Visual Studio temporary files
+.vs/
+*.suo
+*.user
+
+# Generated build output
+[Bb]in/
+[Oo]bj/
+
+# Restored NuGet packages
+packages/
+
+# Temporary project configuration backups
+*.csproj.bak
+
+# Internal development documentation
+/Development/
+
+# Steam Workshop publishing information
+/About/PublishedFileId.txt
+
+# Compiled mod assembly
+/Assemblies/

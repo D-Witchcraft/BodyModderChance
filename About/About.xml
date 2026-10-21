@@ -1,0 +1,29 @@
+﻿<ModMetaData>
+    <name>Body Modder Chance</name>
+    <author>D_Witchcraft</author>
+    <packageId>DWitchcraft.bodymodderchance</packageId>
+
+    <description>
+Installing artificial body parts with an efficiency rating above 100% generates a small chance for a colonist to gain the Body Modder trait.
+
+The chance increases with the efficiency rating of the installed part and the number of artificial parts with an efficiency rating above 100% that the colonist already has.
+
+Colonists with the Body Purist trait must first lose Body Purist through a successful roll before they can separately gain Body Modder through a later successful roll.
+
+Please note: Colonists who possess the Body Purist gene and have the associated Body Purist trait cannot lose that trait through this mod.
+
+The base chance to lose Body Purist or gain Body Modder can be increased in the mod settings.
+    </description>
+
+    <supportedVersions>
+    <li>1.6</li>
+</supportedVersions>
+<modDependencies>
+      <li>
+    <packageId>brrainz.harmony</packageId>
+    <displayName>Harmony</displayName>
+    <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+  </li>
+</modDependencies>
+</ModMetaData>
