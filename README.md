@@ -8,8 +8,6 @@ This repository is provided for public inspection of the mod's source code. The 
 
 For mod-related questions, bug reports and feedback, please use the Steam Workshop page.
 
-Version note: This repository currently contains the forthcoming v1.1 source code. The Steam Workshop version remains v1.0 until the update is released.
-
 Licensing
 
 The source code and XML files in this repository are licensed under the MIT License. See LICENSE for details.
